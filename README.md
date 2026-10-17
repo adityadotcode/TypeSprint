@@ -1,11 +1,11 @@
 # Minimalist Typing Speed Test
 
-A clean, distraction-free typing speed and accuracy testing application inspired by Monkeytype. This project is designed to help users track their typing performance in real-time with instant feedback.
+A clean, distraction-free typing speed and accuracy testing application inspired by Monkeytype. This project is designed to help users track their typing speed in real-time with instant feedback.
 
 ## Features
 
 * **Real-Time Metrics:** Dynamically calculates Words Per Minute (WPM) and accuracy percentage as you type.
-* **Live Keystroke Feedback:** Distinct visual cues for correct, incorrect, and extra characters.
+* **Live Keystroke Feedback:** Distinct visual cues for correct, incorrect, and extra characters just like monkeytypeo.
 * **Distraction-Free UI:** A minimalist interface that keeps the focus entirely on the typing experience.
 * **Detailed Results Screen:** Provides a comprehensive breakdown of performance (WPM, accuracy, raw speed, and error count) when the timer ends.
 
@@ -17,4 +17,4 @@ A clean, distraction-free typing speed and accuracy testing application inspired
 
 ## How to Run Locally
 
-1. Clone this repository to your local machine...
+Clone this repository to your local machine and can run the code, it will start on your local machine
